@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SmartCalculator4 {
+public class Calculatormain {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         boolean continueCalc = true;
